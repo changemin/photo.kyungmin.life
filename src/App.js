@@ -1,10 +1,12 @@
-
+import FlowingText from "./components/FlowingText";
 
 function App() {
   return (
-    <div className="App">
-      <p>hello</p>
+    <div>
+      <FlowingText />
+      {/* <PhotoGridView /> */}
     </div>
+
   );
 }
 
