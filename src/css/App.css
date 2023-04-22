@@ -1,0 +1,73 @@
+
+/* FONT */
+@font-face {
+  font-family: "NanumSquareNeo";
+  src: url("../fonts/woff2/NanumSquareNeo-Variable.woff2") format("woff2"),
+  url("../fonts/woff/NanumSquareNeo-Variable.woff") format("woff");
+}
+
+@font-face { /* Light */
+  font-family: "NanumSquareNeo-L"; 
+  src: url("../fonts/woff2/NanumSquareNeoTTF-aLt.woff2") format("woff2"),
+  url("../fonts/woff/NanumSquareNeoTTF-aLt.woff") format("woff");
+}
+
+@font-face { /* Regular */
+  font-family: "NanumSquareNeo-R";
+  src: url("../fonts/woff2/NanumSquareNeoTTF-bRg.woff2") format("woff2"),
+  url("../fonts/woff/NanumSquareNeoTTF-bRg.woff") format("woff");
+}
+
+@font-face { /* Bold */
+  font-family: "NanumSquareNeo-B";
+  src: url("../fonts/woff2/NanumSquareNeoTTF-cBd.woff2") format("woff2"),
+  url("../fonts/woff/NanumSquareNeoTTF-cBd.woff") format("woff");
+}
+
+@font-face { /* ExtraBold */
+  font-family: "NanumSquareNeo-Eb";
+  src: url("../fonts/woff2/NanumSquareNeoTTF-dEb.woff2") format("woff2"),
+  url("../fonts/woff/NanumSquareNeoTTF-dEb.woff") format("woff");
+}
+
+@font-face { /* Heavy */
+  font-family: "NanumSquareNeo-H";
+  src: url("../fonts/woff2/NanumSquareNeoTTF-eHv.woff2") format("woff2"),
+  url("../fonts/woff/NanumSquareNeoTTF-eHv.woff") format("woff");
+}
+
+@font-face { /* Heavy */
+  font-family: "DS-Digital";
+  src: url("../fonts/woff/DS-Digital.woff") format("woff"),
+  url("../fonts/woff/DS-Digital.woff") format("woff");
+}
+
+body {
+  margin: 0;
+  font-family: "NanumSquareNeo-R";
+  background-color: #191919;
+  color: #F8F8F8;
+
+  /* this is for light mode */
+  /* background-color: #F8F8F8;
+  color: #191919; */
+  overflow-x: hidden;
+  width: 100%
+  
+}
+
+html {
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.__react_modal_image__header {
+  text-align: center;
+}
+
+.__react_modal_image__caption {
+  font-family: "NanumSquareNeo-B";
+}
