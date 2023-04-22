@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/photo.kyungmin.life/static/css/main.1c2127d3.css",
+    "main.js": "/photo.kyungmin.life/static/js/main.b63c6658.js",
+    "static/js/787.f73e1223.chunk.js": "/photo.kyungmin.life/static/js/787.f73e1223.chunk.js",
+    "static/media/NanumSquareNeo-Variable.woff": "/photo.kyungmin.life/static/media/NanumSquareNeo-Variable.d80ae48b60611b9cbb57.woff",
+    "static/media/NanumSquareNeo-Variable.woff2": "/photo.kyungmin.life/static/media/NanumSquareNeo-Variable.1ec64c4f932f64914ebd.woff2",
+    "static/media/NanumSquareNeoTTF-dEb.woff": "/photo.kyungmin.life/static/media/NanumSquareNeoTTF-dEb.c393afd7217c692a3cdd.woff",
+    "static/media/NanumSquareNeoTTF-bRg.woff": "/photo.kyungmin.life/static/media/NanumSquareNeoTTF-bRg.3ef1b154df4dd187269a.woff",
+    "static/media/NanumSquareNeoTTF-cBd.woff": "/photo.kyungmin.life/static/media/NanumSquareNeoTTF-cBd.b97fa8bab0f60689763b.woff",
+    "static/media/NanumSquareNeoTTF-eHv.woff": "/photo.kyungmin.life/static/media/NanumSquareNeoTTF-eHv.324ece26be02824e94c0.woff",
+    "static/media/NanumSquareNeoTTF-aLt.woff": "/photo.kyungmin.life/static/media/NanumSquareNeoTTF-aLt.c53d1169068f24b721e0.woff",
+    "static/media/NanumSquareNeoTTF-dEb.woff2": "/photo.kyungmin.life/static/media/NanumSquareNeoTTF-dEb.8f5d88bdccdc1b03419d.woff2",
+    "static/media/NanumSquareNeoTTF-bRg.woff2": "/photo.kyungmin.life/static/media/NanumSquareNeoTTF-bRg.8c19e413edbc38f2499a.woff2",
+    "static/media/NanumSquareNeoTTF-cBd.woff2": "/photo.kyungmin.life/static/media/NanumSquareNeoTTF-cBd.79d2b7fd23d6a661eff0.woff2",
+    "static/media/NanumSquareNeoTTF-eHv.woff2": "/photo.kyungmin.life/static/media/NanumSquareNeoTTF-eHv.94e1ff8cc8548100f79c.woff2",
+    "static/media/NanumSquareNeoTTF-aLt.woff2": "/photo.kyungmin.life/static/media/NanumSquareNeoTTF-aLt.fbf1422cd5996eea15e1.woff2",
+    "static/media/DS-Digital.woff": "/photo.kyungmin.life/static/media/DS-Digital.82b522b8613e2bec4b09.woff",
+    "index.html": "/photo.kyungmin.life/index.html",
+    "static/media/starburst.svg": "/photo.kyungmin.life/static/media/starburst.24299f6298d8c5f54fa71163f5843c90.svg",
+    "main.1c2127d3.css.map": "/photo.kyungmin.life/static/css/main.1c2127d3.css.map",
+    "main.b63c6658.js.map": "/photo.kyungmin.life/static/js/main.b63c6658.js.map",
+    "787.f73e1223.chunk.js.map": "/photo.kyungmin.life/static/js/787.f73e1223.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c2127d3.css",
+    "static/js/main.b63c6658.js"
+  ]
+}
