@@ -17,6 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "python scripts/main.py && git stage . && git commit -m 'Update Photo&deploy' && git push&&gh-pages -d build",
     "python": "python scripts/main.py"
   },
