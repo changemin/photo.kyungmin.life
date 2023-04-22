@@ -18,7 +18,7 @@ export default function PhotoGridView() {
                     </PhotoDescriptionContainer>
                         <Photo
                             small={"photos/"+item.FilePath}
-                            large={"photos/"+item.FilePath}
+                            large={"photos/2023-04-09@22-34-05@19@왠지모르게따뜻한.jpg"}
                             alt={item.Location.StringLocation == "" ? (item.Idx)+"번째 시선: "+item.Title : item.Location.StringLocation+"에서 찾은 "+(item.Idx)+"번째 시선: "+item.Title}
                             hideDownload={true}
                         />
