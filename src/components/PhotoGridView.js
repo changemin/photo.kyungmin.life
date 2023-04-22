@@ -16,15 +16,12 @@ export default function PhotoGridView() {
                             <PhotoDescription>{item.DateTime}</PhotoDescription>
                         </Desktop>
                     </PhotoDescriptionContainer>
-                        {/* <img src={require('../')} */}
-                    {/* <LazyLoad height={200} offset={100} once> */}
                         <Photo
-                            // small={require('../photos/'+item.FilePath)}
-                            // large={require("../photos/${item.FilePath}")}
+                            small={"photos/"+item.FilePath}
+                            large={"photos/"+item.FilePath}
                             alt={item.Location.StringLocation == "" ? (item.Idx)+"번째 시선: "+item.Title : item.Location.StringLocation+"에서 찾은 "+(item.Idx)+"번째 시선: "+item.Title}
                             hideDownload={true}
                         />
-                    {/* </LazyLoad> */}
                 </PhotoContainer>
              ))}
         </PhotoGridViewWrapper>
