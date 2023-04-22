@@ -1,3 +1,0 @@
-insta_id = "photo.kyungmin.life"
-insta_pw = "i9fkpobx635#YOHO"
-accessToken = "IGQVJWOVZA1M3JrN1gyWU1hX1Q4M1JNSWw1bnhEM0hrejN1YUlIRXAwenJZAZAnk2ZA0MzYk02Q0VlcS02NXUycmZAsSHN1b2tyUG9xd3dteG5ERmdJeTB6MFpOOVFvX2gtUXNEbXNJQ1JtckFZAR21jUEk0aAZDZD"

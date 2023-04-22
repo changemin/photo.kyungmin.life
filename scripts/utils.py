@@ -93,13 +93,13 @@ def update_marquee_text():
         json.dump(textData, jsonFile,ensure_ascii = False, sort_keys=True, indent=4)
 
 
-# photos/ 의 사진들을 src/photos/로 이동합니다.
+# photos/ 의 사진들을 public/photos/로 이동합니다.
 def copy_photos():
     print("[Python] reset src/photos folder and copy all the photos")
     reset_src_photos()
 
     origin_folder = "./photos"
-    destination_folder = "./src/photos"
+    destination_folder = "./public/photos"
 
     for file_name in os.listdir(origin_folder):
         source_file = os.path.join(origin_folder, file_name)
